@@ -9,7 +9,7 @@
 
 [5-6 接著hunter	大大是由android 轉過來swift 也是讀書會創始會員 幫我攻略了5,6 autolayout的部分,hunter大目前有在玩藍芽歡迎有在玩的朋友可以衝撞他,hunter大很樂意分享經驗 讀書會中我很喜歡cue他 ](https://www.youtube.com/watch?v=v1zvPIWxcfA&feature=youtu.be)
 
-[7-8 john	前輩從 object-c 時代轉過來的老前輩 一整個雷過來的感覺 7,8 章 John 跟我們分享了許多書上用沒提道的軟體,由經驗者帶領攻略就是不一樣的fu](https://youtu.be/h-QJCzVHe5Q)
+[7-8 john	前輩從 object-c 時代轉過來的老前輩 無論知識與經驗都非常令人尊敬 John 大也跟我們分享了許多書上用沒提道的軟體,由經驗者帶領攻略就是是可以得到書上沒有的經驗分享啊](https://youtu.be/h-QJCzVHe5Q)
 
 [9-10 Ynn Ad	說到丹尼那時候是第一次辦幫幫忙活動,沒想到真的有一群人出現來幫他看code ,丹尼很感謝大家的幫忙,之後丹尼用錄影的方式帶我們攻略9 10 ](https://www.facebook.com/ynn.ad3/videos/10209965759848798/)
 
