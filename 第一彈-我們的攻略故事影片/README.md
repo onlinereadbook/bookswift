@@ -18,7 +18,7 @@
 [part 3](https://youtu.be/PaGipYuc6U0)
 [part 4](https://youtu.be/F0BxCHksl6A)
 
-[12 yuyu 聲音甜美的美女,也是早上班史丹佛cp 193的版主,被我使用異次元招喚來支援, 因為yuyu也是初學所以跟我一樣用反覆錄製方式進行,我們還進行了很長的時間在討論攻略 ,討論過程一直有新東西突破]( https://youtu.be/T3vcgLqiHJo)
+[12 yuyu 聲音甜美的美女,也是早上班史丹佛cp 193的版主,被我使用異次元招喚來支援, 因為yuyu也是初學所以跟我一樣用反覆錄製方式進行,我們還進行了很長的時間在討論攻略 ,討論過程一直有新東西突破,很謝謝yuyu]( https://youtu.be/T3vcgLqiHJo)
 [part 2](https://youtu.be/d9HXAHIHYRo)							
 
 [13,14＋番外篇 默司的出現 在各章節默司都不斷施予火力支援與番外篇,終於在13,14 這個章節加入了導讀,真的如果你剛入門我會很建議你13張一定要來看一下,默司由淺入深但不會很深的技巧 ,新人一定就懂嚕 ](https://www.youtube.com/watch?v=5W_SSZMwTMo&feature=youtu.be)
