@@ -41,7 +41,7 @@
 [git位置](https://github.com/mosluce/GUCustomizeViews)									
 
 
-## Bryan Chen
+### Bryan Chen
 
 [Firebase 這個關卡對新手可是說很多雷,Bryan Chen大 用他的經驗實戰領域講解的非常詳細, Bryan Chen是新創的Boss 很高興Bryan 這麼熱心,看簡報就知道一整個用心啊,這個攻略太讚了](https://www.youtube.com/watch?v=11jt9U95ymU			
 )
