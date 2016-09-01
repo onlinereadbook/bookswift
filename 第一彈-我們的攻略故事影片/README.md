@@ -30,13 +30,16 @@
 [番1 Swift 利用 CAShapeLayer 和 UIBezierPath 製作布丁互動體驗,好Ｑ彈](https://www.youtube.com/playlist?list=PLimSISlC6rNH01lAuPBh_5ycsA51Rj_ms)
 
 [番2 不使用 Cocoapods 安裝 Firebase 並簡單使用的過程,為什麼不用CoCoapods阿~因為他會強制更改設定值](https://youtu.be/kPbPsGRImIo)
-[Realm](https://www.youtube.com/playlist?list=PLimSISlC6rNFrg1K_a43iBKAdU4MB8B1)
+
+
 
 [番3 Facebook sdk 安裝 耶很簡單耶,但是自己摸一定雷爆了,趕快來看生存指南難避雷嚕](https://www.facebook.com/mosluce/videos/10210792933919168/)
 
 [番4 客制UITextField 默司開始失眠了,招開了第三次幫幫活動這次招喚人數很多](https://youtu.be/cJKUevCFY0k)
 
 [番5 Cocoapods LV1 安裝篇 ,Lv2續待...	](https://www.youtube.com/watch?v=uPfCYh_IDjQ)
+
+[番6 Realm](https://www.youtube.com/playlist?list=PLimSISlC6rNFrg1K_a43iBKAdU4MB8B1)
 
 [git位置](https://github.com/mosluce/GUCustomizeViews)									
 
