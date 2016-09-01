@@ -7,7 +7,7 @@
 [1-4 pofat 一開始打了強心針講一口氣講了四個章節,第一次認識pofat是個很熱心的前輩,感覺就是一整個不簡單的人物阿,之後更認識後pofat住花蓮固定會在舉辦口丁之夜,有機會一定要去朝聖啊,iot農業相關的議題正在發燒](https://www.youtube.com/watch?v=e3R_FUot8LI&feature=youtu.be
 )
 
-[5-6 接著hunter	大大是由android 轉過來swift 也是讀書會創始會員 幫我攻略了5,6 autolayout的部分,hunter大目前有在玩藍芽歡迎有在玩的朋友可以衝撞他,hunter大很樂意分享經驗 讀書會中我很喜歡cue他 ](https://www.youtube.com/watch?v=v1zvPIWxcfA&feature=youtu.be)
+[5-6 接著hunter	大大是由android 轉過來swift 也是讀書會創始會員 幫忙攻略了5,6 autolayout的部分,hunter大目前有在玩藍芽歡迎有在玩的朋友可以衝撞他,hunter大很樂意分享經驗 讀書會中我很喜歡cue他 ](https://www.youtube.com/watch?v=v1zvPIWxcfA&feature=youtu.be)
 
 [7-8 john	前輩從 object-c 時代轉過來的老前輩 無論知識與經驗都非常令人尊敬 John 大也跟我們分享了許多書上用沒提道的軟體,由經驗者帶領攻略就是是可以得到書上沒有的經驗分享啊](https://youtu.be/h-QJCzVHe5Q)
 
