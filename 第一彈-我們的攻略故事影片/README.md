@@ -7,7 +7,7 @@
 [1-4 pofat 一開始打了強心針講一口氣講了四個章節,第一次認識pofat是個很熱心的前輩,感覺就是一整個不簡單的人物阿,之後更認識後知道了pofat住花蓮固定會在舉辦口丁之夜,有機會一定要去朝聖啊,iot農業相關的議題正在發燒](https://www.youtube.com/watch?v=e3R_FUot8LI&feature=youtu.be
 )
 
-[5-6 接著hunter	大大是由android 轉過來swift 也是讀書會創始會員 幫忙攻略了5,6 autolayout的部分,hunter大目前有在玩藍芽歡迎有在玩的朋友可以衝撞他,hunter大很樂意分享經驗 讀書會中我很喜歡cue他 ](https://www.youtube.com/watch?v=v1zvPIWxcfA&feature=youtu.be)
+[5-6 接著hunter	大大是由android 轉來swift的也是讀書會創始會員 幫忙攻略了5,6 autolayout的部分,hunter大目前有在玩藍芽歡迎有在玩的朋友可以衝撞他,hunter大很樂意分享經驗 讀書會中我很喜歡cue他 ](https://www.youtube.com/watch?v=v1zvPIWxcfA&feature=youtu.be)
 
 [7-8 john	前輩從 object-c 時代轉過來的老前輩 無論知識與經驗都非常令人尊敬 John 大也跟我們分享了許多書上用沒提道的軟體,由經驗者帶領攻略就是是可以得到書上沒有的經驗分享啊](https://youtu.be/h-QJCzVHe5Q)
 
@@ -21,7 +21,7 @@
 [12 yuyu 聲音甜美的美女,也是早上班史丹佛cp 193的版主,被我使用異次元招喚來支援, 因為yuyu也是初學所以跟我一樣用反覆錄製方式進行,我們還進行了很長的時間在討論攻略 ,討論過程一直有新東西突破,很謝謝yuyu]( https://youtu.be/T3vcgLqiHJo)
 [part 2](https://youtu.be/d9HXAHIHYRo)							
 
-[13,14＋番外篇 默司的出現 在各章節默司都不斷施予火力支援與番外篇,終於在13,14 這個章節加入了導讀,真的如果你剛入門我會很建議你13章一定要來看一下,默司由淺入深但不會很深的技巧 ,新人一定就懂嚕 ](https://www.youtube.com/watch?v=5W_SSZMwTMo&feature=youtu.be)
+[13,14＋番外篇 默司的出現 在各章節默司都不斷施予火力支援與番外篇,終於在13,14 這個章節加入了導讀,真的如果你剛入門我會很建議你默司的13章一定要來看一下,默司由淺入深但不會很深的技巧 ,真的很好懂 ](https://www.youtube.com/watch?v=5W_SSZMwTMo&feature=youtu.be)
 
 [15,16 台中科技大學的宗翰剛接觸swift半年 不但把書上的精髓都點到,台風穩健口條也超好,動畫篇講得超讚的,這時候nick介紹了第三方套件的補充讓大家也受益不少 ](https://youtu.be/2H0kGsxt8Ic)
 
