@@ -45,7 +45,7 @@
 
 [番6 Realm](https://www.youtube.com/playlist?list=PLimSISlC6rNFrg1K_a43iBKAdU4MB8B1)
 
-[番7 autolayout Michael 火力支援篇 默司這兩個星期一直在autolayout Re:零 不知道死了多少次了,在火力支援時游刃有餘太強拉](https://youtu.be/0XTJwZRSS_g) 
+[番7 autolayout Michael 火力支援篇 默司這兩個星期一直在autolayout Re:零 不知道死了多少次了,在火力支援時游刃有餘太強拉](https://youtu.be/0XTJwZRSS_g)
 
 [git位置](https://github.com/mosluce/GUCustomizeViews)									
 
@@ -57,7 +57,7 @@
 )
 
 ### Michael Chen
-[番1 第一次分享iOS - AutoLayout,感覺Michael很緊張,但要跟Michael說的是真的很謝謝你,初體驗很好玩吧讀書會就是要每個人都來講,很多大神會幫忙補充的不用擔心,希望Michael下次還有機會再來一回生兩回熟邁向大師之路,對於初學的我今天也得到很多知識謝謝大家的火力支援](https://youtu.be/eOAozUhjoDA)
+[番1 第一次分享iOS - AutoLayout,感覺Michael很緊張,但要跟Michael說的是真的很謝謝你,初體驗很好玩吧讀書會就是要每個人都來講,希望Michael下次還有機會再來一回生兩回熟,對於初學的我今天也得到很多知識謝謝 Michael](https://youtu.be/eOAozUhjoDA)
 
 ### 幫幫忙活動
 
