@@ -47,6 +47,9 @@
 
 [番7 autolayout Michael 火力支援篇 默司這兩個星期一直在autolayout Re:零 不知道死了多少次了,在火力支援時游刃有餘太強拉](https://youtu.be/0XTJwZRSS_g)
 
+[番8 protocal 用最貼近白話的中文程式,用實境的方式帶出protocal跟delegate 的用法 ,一聽就懂 ,very讚 後來nick還介紹了snippet的用法 長很多知識 ]
+(https://youtu.be/JMUX2tEKpm0)
+
 [git位置](https://github.com/mosluce/GUCustomizeViews)									
 
 
