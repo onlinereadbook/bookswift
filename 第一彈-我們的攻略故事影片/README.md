@@ -62,6 +62,12 @@
 ### Michael Chen
 [番1 第一次分享iOS - AutoLayout,感覺Michael很緊張,但要跟Michael說的是真的很謝謝你,初體驗很好玩吧讀書會就是要每個人都來講,希望Michael下次還有機會再來一回生兩回熟,對於初學的我今天也得到很多知識謝謝 Michael](https://youtu.be/eOAozUhjoDA)
 
+
+### 彼得潘
+[番1 9/15 中秋節感謝彼得潘來幫大家講 ios10推播的功能,推播的使用方法真的很酷 有分前景模式跟背景模式,推播的時候還可以傳照片,音樂影片,真是太酷了,而且還可以做按鈕互動..長了好多知識 很感謝彼得潘 來社團主講,希望以後還有機會再邀請來社團主講 .今天中秋節(太感謝了](https://www.youtube.com/watch?v=ePZaV_sd0KI)
+
+
+
 ### 幫幫忙活動
 
 [默司 	mapkit 攻略教學並說明目前自己卡關的地方,大家一起幫幫他想辦法](https://www.facebook.com/mosluce/videos/10210599074672808/)
