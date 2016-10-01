@@ -23,3 +23,6 @@
 | 默司 | Facebook sdk 安裝篇 | [[影片](https://www.facebook.com/mosluce/videos/10210792933919168/)] | [[傳送門](#)] |
 | 默司 | 客制UITextField | [[影片](https://youtu.be/cJKUevCFY0k)] | [[傳送門](#)] |
 | 默司 | Cocoapods LV1 安裝篇 | [[影片](https://www.youtube.com/watch?v=uPfCYh_IDjQ)] | [[傳送門](#)] |
+| Bryan Chen | Firebase 基礎分享 | [[影片](https://www.youtube.com/watch?v=11jt9U95ymU)] | [[傳送門](#)] |
+| 默司 | mapkit | [[影片](https://www.facebook.com/mosluce/videos/10210599074672808/)] [[影片](https://www.youtube.com/watch?v=w5ijtrUpUQA&feature=em-upload_owner)] | [[傳送門](#)] |
+| hunter | 藍芽applewatch | [[影片](https://youtu.be/Jb6GDYV5Dho)] | [[傳送門](#)] |
