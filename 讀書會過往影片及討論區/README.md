@@ -12,3 +12,14 @@
 | yuyu | 12 | [[影片 Part 1](https://youtu.be/T3vcgLqiHJo)] [[影片 Part 2](https://youtu.be/d9HXAHIHYRo)] | [[傳送門](#)] |
 | 默司 | 13 ~ 14 + 番外篇 | [[影片](https://www.youtube.com/watch?v=5W_SSZMwTMo&feature=youtu.be)] | [[傳送門](#)] |
 | 宗翰 | 15 ~ 16 | [[影片](https://youtu.be/2H0kGsxt8Ic)] | [[傳送門](#)] |
+
+## 番外篇
+
+| 主講者 | 主題 | 連結 | 討論區 |
+| ------ | ------ | ------ | ----- |
+| 默司 | Swift 利用 CAShapeLayer 和 UIBezierPath 製作布丁互動體驗 | [[影片](https://www.youtube.com/playlist?list=PLimSISlC6rNH01lAuPBh_5ycsA51Rj_ms)] | [[傳送門](#)] |
+| 默司 | 不使用 Cocoapods 安裝 Firebase 並簡單使用的過程 | [[影片](https://youtu.be/kPbPsGRImIo)] | [[傳送門](#)] |
+| 默司 | Realm | [[影片](https://www.youtube.com/playlist?list=PLimSISlC6rNFrg1K_a43iBKAdU4MB8B1_)] | [[傳送門](#)] |
+| 默司 | Facebook sdk 安裝篇 | [[影片](https://www.facebook.com/mosluce/videos/10210792933919168/)] | [[傳送門](#)] |
+| 默司 | 客制UITextField | [[影片](https://youtu.be/cJKUevCFY0k)] | [[傳送門](#)] |
+| 默司 | Cocoapods LV1 安裝篇 | [[影片](https://www.youtube.com/watch?v=uPfCYh_IDjQ)] | [[傳送門](#)] |
