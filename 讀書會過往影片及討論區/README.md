@@ -11,7 +11,8 @@
 | Polo | 10 ~ 11 | [[影片 Part 1](https://youtu.be/g2gex9p1p_I)] [[影片 Part 2](https://youtu.be/OHVB01Er3Nk)] [[影片 Part 3](https://youtu.be/PaGipYuc6U0)] [[影片 Part 4](https://youtu.be/F0BxCHksl6A)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/5)] |
 | yuyu | 12 | [[影片 Part 1](https://youtu.be/T3vcgLqiHJo)] [[影片 Part 2](https://youtu.be/d9HXAHIHYRo)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/6)] |
 | 默司 | 13 ~ 14 + 番外篇 | [[影片](https://www.youtube.com/watch?v=5W_SSZMwTMo&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/7)] |
-| 宗翰 | 15 ~ 16 | [[影片](https://youtu.be/2H0kGsxt8Ic)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/8)] |
+| 宗翰 | 15 ~ 16 | [[影片](https://youtu.be/2H0kGsxt8Ic)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/8)] | 
+| Michael | 17 ~ 18 | [[影片part1](https://www.youtube.com/watch?v=xnhz9s4ctBs)] [[影片part2](https://www.youtube.com/watch?v=xGuKVFY3iHg)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/21)]
 | 沈昀 | 19 Core Data 介紹 | [[影片](https://www.youtube.com/watch?v=WXc8-l_S-YY)] [[FB] (https://www.facebook.com/groups/238948643131478/permalink/333784840314524/)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/19)] |
 
 
