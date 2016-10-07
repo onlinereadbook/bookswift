@@ -12,7 +12,7 @@
 | yuyu | 12 | [[影片 Part 1](https://youtu.be/T3vcgLqiHJo)] [[影片 Part 2](https://youtu.be/d9HXAHIHYRo)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/6)] |
 | 默司 | 13 ~ 14 + 番外篇 | [[影片](https://www.youtube.com/watch?v=5W_SSZMwTMo&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/7)] |
 | 宗翰 | 15 ~ 16 | [[影片](https://youtu.be/2H0kGsxt8Ic)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/8)] |
-| 沈昀 | 19 Core Data 介紹 | [[FB] (https://www.facebook.com/groups/238948643131478/permalink/333784840314524/)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/19)] |
+| 沈昀 | 19 Core Data 介紹 | [[影片](https://www.youtube.com/watch?v=WXc8-l_S-YY)] [[FB] (https://www.facebook.com/groups/238948643131478/permalink/333784840314524/)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/19)] |
 
 
 ## 番外篇
