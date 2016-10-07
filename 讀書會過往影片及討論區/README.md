@@ -28,5 +28,6 @@
 |  | Bryan Chen | Firebase 基礎分享 | [[影片](https://www.youtube.com/watch?v=11jt9U95ymU)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/15)] |
 |  | 默司 | mapkit | [[影片](https://www.facebook.com/mosluce/videos/10210599074672808/)] [[影片](https://www.youtube.com/watch?v=w5ijtrUpUQA&feature=em-upload_owner)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/16)] |
 |  | hunter | 藍芽applewatch | [[影片](https://youtu.be/Jb6GDYV5Dho)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/17)] |
+| 2016/09/15 | peter pan | 結合 iOS 10 的 User Notifications：傳送米花兒的幸福打氣通知 | [[影片](https://www.youtube.com/watch?v=ePZaV_sd0KI)] [[FB] (https://www.facebook.com/groups/238948643131478/permalink/322444021448606/)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/20)] |
 | 2016/09/29 | pofat | Swift 裝屌指南 | [[影片](https://www.youtube.com/watch?v=BcIGvdE3cTI&feature=youtu.be)] [[FB] (https://www.facebook.com/groups/238948643131478/permalink/329846170708391/)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/18)] |
 
