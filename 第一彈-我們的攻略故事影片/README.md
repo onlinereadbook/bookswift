@@ -67,7 +67,10 @@
 [番1 9/15 中秋節感謝彼得潘來幫大家講 ios10推播的功能,推播的使用方法真的很酷 有分前景模式跟背景模式,推播的時候還可以傳照片,音樂影片,真是太酷了,而且還可以做按鈕互動..長了好多知識 很感謝彼得潘 來社團主講,希望以後還有機會再邀請來社團主講 .今天中秋節(太感謝了](https://www.youtube.com/watch?v=ePZaV_sd0KI)
 
 
-
+### 張景隆 
+[番1 10/13  感謝張景隆大大主講SwiftyJSON, 新手需攻略關卡之一, 張景隆大大還用心準備筆記跟Sample Code(整理在issue心得分享區呦), 超感謝當初景隆大大分享 2015 HackNTU iOS Course 資源. 解決學生負擔費用、偏鄉距離、資訊不對稱 issue 有閒錢多贊助他們推廣教育(致敬手勢)](https://www.youtube.com/watch?v=lbVuYwHYqWg) 
+  
+  
 ### 幫幫忙活動
 
 [默司 	mapkit 攻略教學並說明目前自己卡關的地方,大家一起幫幫他想辦法](https://www.facebook.com/mosluce/videos/10210599074672808/)
