@@ -68,7 +68,7 @@
 
 
 ### 張景隆 
-[番1 10/13  感謝張景隆大大主講SwiftyJSON, 新手需攻略關卡之一, 張景隆大大還用心準備筆記跟Sample Code(整理在issue心得分享區呦), 超感謝當初景隆大大分享 2015 HackNTU iOS Course 資源. 解決學生負擔費用、偏鄉距離、資訊不對稱 issue 有閒錢多贊助他們推廣教育(致敬手勢)](https://www.youtube.com/watch?v=lbVuYwHYqWg) 
+[番1 10/13  感謝張景隆大大主講SwiftyJSON, 新手需攻略關卡之一, 張景隆大大還用心準備筆記跟Sample Code(整理在issue心得分享區呦), 超感謝當初景隆大大分享 2015 HackNTU iOS Course 資源. 解決學生負擔費用、偏鄉距離、資訊不對稱 issue 有閒錢多贊助他們推廣教育吧 :D (致敬手勢)](https://www.youtube.com/watch?v=lbVuYwHYqWg) 
   
   
 ### 幫幫忙活動
