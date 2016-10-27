@@ -60,7 +60,8 @@
 )
 
 ### Michael Chen
-[番1 第一次分享iOS - AutoLayout,感覺Michael很緊張,但要跟Michael說的是真的很謝謝你,初體驗很好玩吧讀書會就是要每個人都來講,希望Michael下次還有機會再來一回生兩回熟,對於初學的我今天也得到很多知識謝謝 Michael](https://youtu.be/eOAozUhjoDA) 
+[番1 第一次分享iOS - AutoLayout,感覺Michael很緊張,但要跟Michael說的是真的很謝謝你,初體驗很好玩吧讀書會就是要每個人都來講,希望Michael下次還有機會再來一回生兩回熟,對於初學的我今天也得到很多知識謝謝 Michael](https://youtu.be/eOAozUhjoDA)
+
 [番2 10/27 分享DesignPatterns-Swift - Strategy Pattern -玩玩看有沒有趣的寫法, 謝謝 Michael](https://www.youtube.com/watch?v=bsNBFS5Eg5Q)
 
 
