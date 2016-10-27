@@ -34,4 +34,5 @@
 | 2016/09/29 | pofat | Swift 裝屌指南 | [[影片](https://www.youtube.com/watch?v=BcIGvdE3cTI&feature=youtu.be)] [[FB] (https://www.facebook.com/groups/238948643131478/permalink/329846170708391/)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/18)] | 
 | 2016/10/13 | 景隆 | SwiftyJSON | [[影片](https://www.youtube.com/watch?v=lbVuYwHYqWg)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/23)] | 
 | 2016/10/20 | Nick | 對抗萬惡的字符串 | [[FB](https://www.facebook.com/nicklin.69/videos/1409174642446349/)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/24)] | 
+| 2016/10/27 | Michael | Strategy Pattern | [[影片](https://www.youtube.com/watch?v=bsNBFS5Eg5Q)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/25)] |
 
