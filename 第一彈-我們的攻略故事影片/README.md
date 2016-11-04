@@ -78,7 +78,7 @@
  
 
 ### 沈昀
-[番1 10/20  感謝沈昀大大主講CoreData Migration, Swift讀書會以來破紀錄主講, 沈昀大大一定研究到超有心得, 踩CoreData Migration雷, 踩出專業層等級, 在此播映 CoreData導演加長版 :sunglasses:](https://www.youtube.com/watch?v=wQl71E4Xzfw)
+[番1 11/03  感謝沈昀大大主講CoreData Migration, Swift讀書會以來破紀錄主講, 沈昀大大一定研究到超有心得, 踩CoreData Migration雷, 踩出專業層等級, 在此播映 CoreData導演加長版 :sunglasses:](https://www.youtube.com/watch?v=wQl71E4Xzfw)
 
 ### 幫幫忙活動
 
