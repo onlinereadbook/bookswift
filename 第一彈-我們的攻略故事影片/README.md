@@ -62,21 +62,24 @@
 ### Michael Chen
 [番1 第一次分享iOS - AutoLayout,感覺Michael很緊張,但要跟Michael說的是真的很謝謝你,初體驗很好玩吧讀書會就是要每個人都來講,希望Michael下次還有機會再來一回生兩回熟,對於初學的我今天也得到很多知識謝謝 Michael](https://youtu.be/eOAozUhjoDA)
 
-[番2 10/27 分享DesignPatterns-Swift - Strategy Pattern -玩玩看有沒有趣的寫法, 謝謝 Michael](https://www.youtube.com/watch?v=bsNBFS5Eg5Q)
+[番2 10/27 分享DesignPatterns-Swift - Strategy Pattern -玩玩看有沒有趣的寫法, 謝謝 Michael :smile:](https://www.youtube.com/watch?v=bsNBFS5Eg5Q)
 
 
 ### 彼得潘
 [番1 9/15 中秋節感謝彼得潘來幫大家講 ios10推播的功能,推播的使用方法真的很酷 有分前景模式跟背景模式,推播的時候還可以傳照片,音樂影片,真是太酷了,而且還可以做按鈕互動..長了好多知識 很感謝彼得潘 來社團主講,希望以後還有機會再邀請來社團主講 .今天中秋節(太感謝了](https://www.youtube.com/watch?v=ePZaV_sd0KI)
 
 
-### 張景隆 
-[番1 10/13  感謝張景隆大大主講SwiftyJSON, 新手需攻略關卡之一, 張景隆大大還用心準備筆記跟Sample Code(整理在issue心得分享區呦), 超感謝當初景隆大大分享 2015 HackNTU iOS Course 資源. 解決學生負擔費用、偏鄉距離、資訊不對稱 issue 有閒錢多贊助他們推廣教育吧 :D (致敬手勢)](https://www.youtube.com/watch?v=lbVuYwHYqWg) 
+### 張景隆
+[番1 10/13  感謝張景隆大大主講SwiftyJSON, 新手需攻略關卡之一, 張景隆大大還用心準備筆記跟Sample Code(整理在issue心得分享區呦), 超感謝當初景隆大大分享 2015 HackNTU iOS Course 資源. 解決學生負擔費用、偏鄉距離、資訊不對稱 issue 有閒錢多贊助他們推廣教育吧 :smile: (致敬手勢)](https://www.youtube.com/watch?v=lbVuYwHYqWg) 
   
    
-### Lin Nick   
-[番1 10/20  感謝Nick大大主講對抗萬惡的字符串, Nick大大出沒各大社群幫助新手, Nick大大是非科班自學而成, "滅火器 Fire EX.－曾經瘋狂"這首歌當Nick大大登場背景聲完全無違和感(註:陳金鋒拓荒者態度帶領後輩, 讓後輩提高想像台灣人去打美國大聯盟有這可能性,大概這涵義吧 哈哈), 不僅從他身上學到自學該有的態度 :D (致敬手勢)](https://www.facebook.com/nicklin.69/videos/1409174642446349/)  
+### Lin Nick
+[番1 10/20  感謝Nick大大主講對抗萬惡的字符串, Nick大大出沒各大社群幫助新手, Nick大大是非科班自學而成, "滅火器 Fire EX.－曾經瘋狂"這首歌當Nick大大登場背景聲完全無違和感(註:陳金鋒拓荒者態度帶領後輩, 讓後輩提高想像台灣人去打美國大聯盟有這可能性,大概這涵義吧 哈哈), 不僅從他身上學到自學該有的態度 :smile: (致敬手勢)](https://www.facebook.com/nicklin.69/videos/1409174642446349/)
  
- 
+
+### 沈昀
+[番1 10/20  感謝沈昀大大主講CoreData Migration, Swift讀書會以來破紀錄主講, 沈昀大大一定研究到超有心得, 踩CoreData Migration雷, 踩出專業層等級, 在此播映 CoreData導演加長版 :sunglasses:](https://www.youtube.com/watch?v=wQl71E4Xzfw)
+
 ### 幫幫忙活動
 
 [默司 	mapkit 攻略教學並說明目前自己卡關的地方,大家一起幫幫他想辦法](https://www.facebook.com/mosluce/videos/10210599074672808/)
