@@ -80,6 +80,10 @@
 ### 沈昀
 [番1 11/03  感謝沈昀大大主講CoreData Migration, Swift讀書會以來破紀錄主講, 沈昀大大一定研究到超有心得, 踩CoreData Migration雷, 踩出專業層等級, 在此播映 CoreData導演加長版 :sunglasses:](https://www.youtube.com/watch?v=wQl71E4Xzfw)
 
+
+### Jones Wang
+[番1 11/10  感謝Jones Wang大大主講realtime chat iOS 跟 server 之間的溝通, Jones Wang大大 開啟Swift線上讀書會以來, 第一個FB多人分享的成就. Jones Wang大大也是自學, 在社群也蠻容易遇見本人, 且Jones Wang大大非常熱心幫助新手, 提倡先動手實做專案, 這就是全端高手走過來的路.感謝Jones Wang大大 :smirk:](https://www.youtube.com/watch?v=nRszz9wgtaM&feature=youtu.be)
+
 ### 幫幫忙活動
 
 [默司 	mapkit 攻略教學並說明目前自己卡關的地方,大家一起幫幫他想辦法](https://www.facebook.com/mosluce/videos/10210599074672808/)
