@@ -30,10 +30,12 @@
 |  | 默司 | mapkit | [[影片](https://www.facebook.com/mosluce/videos/10210599074672808/)] [[影片](https://www.youtube.com/watch?v=w5ijtrUpUQA&feature=em-upload_owner)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/16)] |
 |  | hunter | 藍芽applewatch | [[影片](https://youtu.be/Jb6GDYV5Dho)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/17)] |
 | 2016/09/01 | Michael |  AotoLayout 畫一次 各尺寸一次滿足 | [[影片](https://www.youtube.com/watch?v=eOAozUhjoDA)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/22)] |
+| 2016/09/02 | 劉信（Hsing Liu） |  AotoLayout Size Class | [[影片](https://www.youtube.com/watch?v=lVUz57UIgK0&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/22)] |
 | 2016/09/15 | peter pan | 結合 iOS 10 的 User Notifications：傳送米花兒的幸福打氣通知 | [[影片](https://www.youtube.com/watch?v=ePZaV_sd0KI)] [[FB] (https://www.facebook.com/groups/238948643131478/permalink/322444021448606/)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/20)] |
 | 2016/09/29 | pofat | Swift 裝屌指南 | [[影片](https://www.youtube.com/watch?v=BcIGvdE3cTI&feature=youtu.be)] [[FB] (https://www.facebook.com/groups/238948643131478/permalink/329846170708391/)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/18)] | 
 | 2016/10/13 | 景隆 | SwiftyJSON (相關筆記在討論區) | [[影片](https://www.youtube.com/watch?v=lbVuYwHYqWg)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/23)] | 
 | 2016/10/20 | Nick | 對抗萬惡的字符串 | [[FB](https://www.facebook.com/nicklin.69/videos/1409174642446349/)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/24)] | 
 | 2016/10/27 | Michael | Strategy Pattern (相關筆記在討論區) | [[影片](https://www.youtube.com/watch?v=bsNBFS5Eg5Q)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/25)] |
 | 2016/11/04 | 沈昀 | CoreData Migration | [[影片](https://www.youtube.com/watch?v=wQl71E4Xzfw)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/26)] |
+| 2016/11/10 | Jones Wang | realtime chat iOS 跟 server 之間的溝通 | [[影片](https://www.youtube.com/watch?v=nRszz9wgtaM&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/27)] |
 
