@@ -50,8 +50,9 @@
 [番8 protocal 用最貼近白話的中文程式,用實境的方式帶出protocal跟delegate 的用法 ,一聽就懂 ,very讚 後來nick還介紹了snippet的用法 長很多知識 ]
 (https://youtu.be/JMUX2tEKpm0)
 
-[git位置](https://github.com/mosluce/GUCustomizeViews)									
+[番9 WebAPI part 1 默司 到底有沒有睡覺啊, 前端後端都攻略 , So Crazy](https://www.youtube.com/watch?v=coKO0fpzFAk&feature=youtu.be)
 
+[番10 WebAPI part 2 默司 x pofat 神人組合 雙人連擊!!](https://www.youtube.com/watch?v=Ng-KqCS2-lI&feature=youtu.be)
 
 
 ### Bryan Chen
