@@ -38,4 +38,5 @@
 | 2016/10/27 | Michael | Strategy Pattern (相關筆記在討論區) | [[影片](https://www.youtube.com/watch?v=bsNBFS5Eg5Q)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/25)] |
 | 2016/11/04 | 沈昀 | CoreData Migration | [[影片](https://www.youtube.com/watch?v=wQl71E4Xzfw)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/26)] |
 | 2016/11/10 | Jones Wang | realtime chat iOS 跟 server 之間的溝通 | [[影片](https://www.youtube.com/watch?v=nRszz9wgtaM&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/27)] |
+| 2016/11/17 | 默司 | 主講 swift URLSession + URLRequest 攻略 WebAPI | [[Part 1](https://www.youtube.com/watch?v=coKO0fpzFAk&feature=youtu.be)] [[Part 2](https://www.youtube.com/watch?v=Ng-KqCS2-lI&feature=youtu.be)]  | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/28)] |
 
