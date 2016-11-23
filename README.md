@@ -25,3 +25,7 @@
 ## 願望清單
 
 - 有想聽的主題一樣開Issues 會幫忙試試看去邀約
+
+## swift讀書會認領表
+
+- [swift讀書會認領表](https://docs.google.com/spreadsheets/d/1AlIbONUapEXDfWY2XdpdqLi8xGh5X3o8qNJyFTk4um0/edit#gid=0)
