@@ -25,6 +25,12 @@
 
 [15,16 台中科技大學的宗翰剛接觸swift半年 不但把書上的精髓都點到,台風穩健口條也超好,動畫篇講得超讚的,這時候nick介紹了第三方套件的補充讓大家也受益不少 ](https://youtu.be/2H0kGsxt8Ic)
 
+[17,18 Michael開始進擊這章節, 第17章剛好 Swift 3.0 推出, Michael搶先Swift讀書會無縫接軌攻略Swift3.0, 這一路來有看見他慢慢進步, 這就是讀書會精神, 每個人都可以玩,都可以進步 ](https://www.youtube.com/watch?v=xnhz9s4ctBs&t=2697s)[part 2](https://www.youtube.com/watch?v=GJX1eSA7_jw&t=1s)
+
+[19 感謝沈昀大大主講第19章 CoreData, 滿滿是心得, 有時Google找得到問題的解答就是沈昀大大寫的文章,今天講的收穫滿滿,感謝沈昀大大](https://www.youtube.com/watch?v=WXc8-l_S-YY)
+
+[20,21 感謝新戰力孤行天羽第一次分享攻略21章,感覺孤行天羽很緊張,跟Michael小編一樣第一次都很緊張,默司大大說得好：「習慣之後就會開始有快感了 讚」,讀書會就是要每個人都來講,每個人都進步, 一起邁進默司大大嘴砲之路吧. Michael小編第一次當主持人, 沒場控好 ><" , 開始進擊初體驗主持人 :satisfied:](https://www.youtube.com/watch?v=4w8D2pBPyzk&t=708s)
+
 
 
 
