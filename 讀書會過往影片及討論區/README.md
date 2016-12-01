@@ -16,6 +16,8 @@
 | 沈昀 | 19 Core Data 介紹 | [[影片](https://www.youtube.com/watch?v=WXc8-l_S-YY)] [[FB] (https://www.facebook.com/groups/238948643131478/permalink/333784840314524/)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/19)] |
 | Michael | 20 | [[影片前半部](https://www.youtube.com/watch?v=4w8D2pBPyzk&t=708s)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/29)]
 | 孤行天羽 | 21 | [[影片後半部](https://www.youtube.com/watch?v=4w8D2pBPyzk&t=708s)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/29)]
+| Nick | 25 | [[影片](https://www.youtube.com/watch?v=PG5GcTy9nu8&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/30)]
+| 張家銘  | 26 | [[影片](https://www.youtube.com/watch?v=7FhuzQmjQqY&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/30)]
 
 
 ## 番外篇
