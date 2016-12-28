@@ -79,7 +79,9 @@
 ### 張景隆
 [番1 10/13  感謝張景隆大大主講SwiftyJSON, 新手需攻略關卡之一, 張景隆大大還用心準備筆記跟Sample Code(整理在issue心得分享區呦), 超感謝當初景隆大大分享 2015 HackNTU iOS Course 資源. 解決學生負擔費用、偏鄉距離、資訊不對稱 issue 有閒錢多贊助他們推廣教育吧 :smile: (致敬手勢)](https://www.youtube.com/watch?v=lbVuYwHYqWg) 
   
-   
+[番2 12/22  感謝張景隆大大主講 GCD, 把 C pthead， object-c 至 swfit 3.0 脈絡講解非常清楚，Swift 3.0 GCD 語法已更新更貼近Swift style ，是UI畫面變更體驗與網路連線的新手起手式  :smile: ](https://www.youtube.com/watch?v=_83N9G61ppQ)
+
+
 ### Lin Nick
 [番1 10/20  感謝Nick大大主講對抗萬惡的字符串, Nick大大出沒各大社群幫助新手, Nick大大是非科班自學而成, "滅火器 Fire EX.－曾經瘋狂"這首歌當Nick大大登場背景聲完全無違和感(註:陳金鋒拓荒者態度帶領後輩, 讓後輩提高想像台灣人去打美國大聯盟有這可能性,大概這涵義吧 哈哈), 不僅從他身上學到自學該有的態度 :smile: (致敬手勢)](https://www.facebook.com/nicklin.69/videos/1409174642446349/)
  
@@ -90,6 +92,9 @@
 
 ### Jones Wang
 [番1 11/10  感謝Jones Wang大大主講realtime chat iOS 跟 server 之間的溝通, Jones Wang大大 開啟Swift線上讀書會以來, 第一個FB多人分享的成就. Jones Wang大大也是自學, 在社群也蠻容易遇見本人, 且Jones Wang大大非常熱心幫助新手, 提倡先動手實做專案, 這就是全端高手走過來的路.感謝Jones Wang大大 :smirk:](https://www.youtube.com/watch?v=nRszz9wgtaM&feature=youtu.be)
+
+### pofat
+[番1 12/15  感謝pofat大大主講protocol oriented programming, 小編早在Swift-Taipei社群聽過 Pofat大分享POP, 那時還是Swift 2.0左右, OOP還是習慣寫法,  直至Swift 3.0 底層都大改動Protocol, Protocol oriented programming 引起讀書會熱烈討論, 感謝pofat大大詳細解說, 真的學到很多 :smile:](https://www.youtube.com/watch?v=UBv8nF_pxu8&feature=youtu.be)
 
 ### 幫幫忙活動
 
