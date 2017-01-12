@@ -36,7 +36,7 @@
 | 2016/09/01 | Michael |  AotoLayout 畫一次 各尺寸一次滿足 | [[影片](https://www.youtube.com/watch?v=eOAozUhjoDA)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/22)] |
 | 2016/09/02 | 劉信（Hsing Liu） |  AotoLayout Size Class | [[影片](https://www.youtube.com/watch?v=lVUz57UIgK0&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/22)] |
 | 2016/09/15 | peter pan | 結合 iOS 10 的 User Notifications：傳送米花兒的幸福打氣通知 | [[影片](https://www.youtube.com/watch?v=ePZaV_sd0KI)] [[FB] (https://www.facebook.com/groups/238948643131478/permalink/322444021448606/)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/20)] |
-| 2016/09/22 | 默司  | Networking 以及 JSON 各種嘗試中 | [[影片](https://www.youtube.com/watch?v=ufDyTljzKQA)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
+| 2016/09/22 | 默司  | Networking 以及 JSON 各種嘗試中 | [[影片](https://www.youtube.com/watch?v=8A5YZmFKwhA)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
 | 2016/09/29 | pofat | Swift 裝屌指南 | [[影片](https://www.youtube.com/watch?v=BcIGvdE3cTI&feature=youtu.be)] [[FB] (https://www.facebook.com/groups/238948643131478/permalink/329846170708391/)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/18)] | 
 | 2016/10/13 | 景隆 | SwiftyJSON (相關筆記在討論區) | [[影片](https://www.youtube.com/watch?v=lbVuYwHYqWg)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/23)] | 
 | 2016/10/20 | Nick | 對抗萬惡的字符串 | [[FB](https://www.facebook.com/nicklin.69/videos/1409174642446349/)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/24)] | 
@@ -44,9 +44,10 @@
 | 2016/11/04 | 沈昀 | CoreData Migration | [[影片](https://www.youtube.com/watch?v=wQl71E4Xzfw)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/26)] |
 | 2016/11/10 | Jones Wang | realtime chat iOS 跟 server 之間的溝通 | [[影片](https://www.youtube.com/watch?v=nRszz9wgtaM&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/27)] |
 | 2016/11/17 | 默司 | 主講 swift URLSession + URLRequest 攻略 WebAPI | [[Part 1](https://www.youtube.com/watch?v=coKO0fpzFAk&feature=youtu.be)] [[Part 2](https://www.youtube.com/watch?v=Ng-KqCS2-lI&feature=youtu.be)]  | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/28)] |
+| 2016/12/01 | 家銘 | swift Localization | [[影片](https://www.youtube.com/watch?v=DEbRaXqNEHk)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
 | 2016/12/15 | pofat | protocol oriented programming | [[影片](https://www.youtube.com/watch?v=UBv8nF_pxu8&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/32)] |
 | 2016/12/22 | 景隆 | GCD Swift | [[影片](https://www.youtube.com/watch?v=_83N9G61ppQ)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/31)] |
 | 2016/12/29 | 一千 | swift 泛型 | [[影片](https://www.youtube.com/watch?v=50Tovse_O84)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
-| 2016/01/05 | 默司  | quickblox for swift | [[影片](https://www.youtube.com/watch?v=ufDyTljzKQA)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
-| 2016/01/10 | Mouson | git 入門 與應用實務 | [[影片](https://www.youtube.com/watch?v=gVByWjwetVc)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
-| 2016/01/11 | 默司  | Swift ARC 入門 | [[影片](https://www.youtube.com/watch?v=NJMTZvtk4dM&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
+| 2017/01/05 | 默司  | quickblox for swift | [[影片](https://www.youtube.com/watch?v=ufDyTljzKQA)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
+| 2017/01/10 | Mouson | git 入門 與應用實務 | [[影片](https://www.youtube.com/watch?v=gVByWjwetVc)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
+| 2017/01/11 | 默司  | Swift ARC 入門 | [[影片](https://www.youtube.com/watch?v=NJMTZvtk4dM&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
