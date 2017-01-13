@@ -35,6 +35,7 @@
 |  | hunter | 藍芽applewatch | [[影片](https://youtu.be/Jb6GDYV5Dho)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/17)] |
 | 2016/09/01 | Michael |  AotoLayout 畫一次 各尺寸一次滿足 | [[影片](https://www.youtube.com/watch?v=eOAozUhjoDA)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/22)] |
 | 2016/09/02 | 劉信（Hsing Liu） |  AotoLayout Size Class | [[影片](https://www.youtube.com/watch?v=lVUz57UIgK0&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/22)] |
+| 2016/09/08 | 默司 |  Protocol 入門 | [[影片](https://www.youtube.com/watch?v=JMUX2tEKpm0&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
 | 2016/09/15 | peter pan | 結合 iOS 10 的 User Notifications：傳送米花兒的幸福打氣通知 | [[影片](https://www.youtube.com/watch?v=ePZaV_sd0KI)] [[FB] (https://www.facebook.com/groups/238948643131478/permalink/322444021448606/)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/20)] |
 | 2016/09/22 | 默司  | Networking 以及 JSON 各種嘗試中 | [[影片](https://www.youtube.com/watch?v=8A5YZmFKwhA)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
 | 2016/09/29 | pofat | Swift 裝屌指南 | [[影片](https://www.youtube.com/watch?v=BcIGvdE3cTI&feature=youtu.be)] [[FB] (https://www.facebook.com/groups/238948643131478/permalink/329846170708391/)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/18)] | 
@@ -51,3 +52,4 @@
 | 2017/01/05 | 默司  | quickblox for swift | [[影片](https://www.youtube.com/watch?v=ufDyTljzKQA)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
 | 2017/01/10 | Mouson | git 入門 與應用實務 | [[影片](https://www.youtube.com/watch?v=gVByWjwetVc)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
 | 2017/01/11 | 默司  | Swift ARC 入門 | [[影片](https://www.youtube.com/watch?v=NJMTZvtk4dM&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
+| 2017/01/12 | Li Hsuan Chen  | Swift Protocol 的實例，測試和心得 + iOS 載入畫面的演進 | [[影片](https://www.youtube.com/watch?v=CRPeJqxvya0)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
