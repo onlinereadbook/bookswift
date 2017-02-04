@@ -53,3 +53,6 @@
 | 2017/01/10 | Mouson | git 入門 與應用實務 | [[影片](https://www.youtube.com/watch?v=gVByWjwetVc)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
 | 2017/01/11 | 默司  | Swift ARC 入門 | [[影片](https://www.youtube.com/watch?v=NJMTZvtk4dM&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
 | 2017/01/12 | Li Hsuan Chen  | Swift Protocol 的實例，測試和心得 + iOS 載入畫面的演進 | [[影片](https://www.youtube.com/watch?v=CRPeJqxvya0)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
+| 2017/01/13 | 立穎 | Api 重構 技巧 | [[影片](https://www.youtube.com/watch?v=buegzCQyFh0)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/34)] |
+| 2017/01/19 | Polo | swift 尾牙抽獎 | [[影片](https://www.youtube.com/watch?v=s7S1q9bqY_0)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
+| 2017/02/02 | 尼森 | swift autolayout 私房菜 | [[影片](https://www.youtube.com/watch?v=MawaafuIaeE)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/35)] |
