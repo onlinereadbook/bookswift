@@ -56,4 +56,4 @@
 | 2017/01/13 | 立穎 | Api 重構 技巧 | [[影片](https://www.youtube.com/watch?v=buegzCQyFh0)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/34)] |
 | 2017/01/19 | Polo | swift 尾牙抽獎 | [[影片](https://www.youtube.com/watch?v=s7S1q9bqY_0)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
 | 2017/02/02 | 尼森 | swift autolayout 私房菜 | [[影片](https://www.youtube.com/watch?v=MawaafuIaeE)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/35)] |
-| 2017/02/04 | 默司 | mac 減肥術 | [[影片](https://www.youtube.com/watch?v=XGNPcqwfCdU)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
+| 2017/02/04 | 默司 | mac 減肥術 | [[影片](https://www.youtube.com/watch?v=XGNPcqwfCdU)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/36)] |
