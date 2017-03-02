@@ -57,3 +57,5 @@
 | 2017/01/19 | Polo | swift 尾牙抽獎 | [[影片](https://www.youtube.com/watch?v=s7S1q9bqY_0)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
 | 2017/02/02 | 尼森 | swift autolayout 私房菜 | [[影片](https://www.youtube.com/watch?v=MawaafuIaeE)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/35)] |
 | 2017/02/04 | 默司 | mac 減肥術 | [[影片](https://www.youtube.com/watch?v=XGNPcqwfCdU)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/36)] |
+| 2017/02/13 | Shen Yun | 演算法與資料結構 | [[Github](https://github.com/shenyun2304/swift-algorithm-club-zhTW)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
+| 2017/02/19 | Dmoon | codepush | [[影片](https://www.youtube.com/watch?v=zpohMOR6YoA)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
