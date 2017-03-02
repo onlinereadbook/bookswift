@@ -60,5 +60,5 @@
 | 2017/02/13 | Shen Yun | 演算法與資料結構 | [[Github](https://github.com/shenyun2304/swift-algorithm-club-zhTW)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
 | 2017/02/19 | Dmoon | codepush | [[影片](https://www.youtube.com/watch?v=zpohMOR6YoA)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
 | 2017/02/23 | 家齊 | Rxswift | [[影片](https://www.youtube.com/watch?v=OyCN04p-uS8)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/37)] |
-| 2017/03/1 | 默司 |  UI Animation 微實作 & 閒聊  | [[影片](https://www.youtube.com/watch?v=fY0BY595avM&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/38)] |
-| 2017/03/1 | 默司 |  實作 Youtube 播放影片仿製   | [[影片](https://www.youtube.com/watch?v=jLTPHfDpNY8&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/39)] |
+| 2017/02/28 | 默司 |  UI Animation 微實作 & 閒聊  | [[影片](https://www.youtube.com/watch?v=fY0BY595avM&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/38)] |
+| 2017/03/2 | 默司 |  實作 Youtube 播放影片仿製   | [[影片](https://www.youtube.com/watch?v=jLTPHfDpNY8&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/39)] |
