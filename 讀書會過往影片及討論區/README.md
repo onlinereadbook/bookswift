@@ -34,6 +34,7 @@
 |  | 默司 | mapkit | [[影片](https://www.facebook.com/mosluce/videos/10210599074672808/)] [[影片](https://www.youtube.com/watch?v=w5ijtrUpUQA&feature=em-upload_owner)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/16)] |
 |  | hunter | 藍芽applewatch | [[影片](https://youtu.be/Jb6GDYV5Dho)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/17)] |
 | 2016/09/01 | Michael |  AotoLayout 畫一次 各尺寸一次滿足 | [[影片](https://www.youtube.com/watch?v=eOAozUhjoDA)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/22)] |
+| 2016/09/01 | 默司 | Sinch 網路電話 + Fabric | [[影片](https://gaming.youtube.com/watch?v=s2ENwEucB00)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
 | 2016/09/02 | 劉信（Hsing Liu） |  AotoLayout Size Class | [[影片](https://www.youtube.com/watch?v=lVUz57UIgK0&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/22)] |
 | 2016/09/08 | 默司 |  Protocol 入門 | [[影片](https://www.youtube.com/watch?v=JMUX2tEKpm0&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
 | 2016/09/15 | peter pan | 結合 iOS 10 的 User Notifications：傳送米花兒的幸福打氣通知 | [[影片](https://www.youtube.com/watch?v=ePZaV_sd0KI)] [[FB] (https://www.facebook.com/groups/238948643131478/permalink/322444021448606/)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/20)] |
@@ -55,6 +56,7 @@
 | 2017/01/12 | Li Hsuan Chen  | Swift Protocol 的實例，測試和心得 + iOS 載入畫面的演進 | [[影片](https://www.youtube.com/watch?v=CRPeJqxvya0)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
 | 2017/01/13 | 立穎 | Api 重構 技巧 | [[影片](https://www.youtube.com/watch?v=buegzCQyFh0)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/34)] |
 | 2017/01/19 | Polo | swift 尾牙抽獎 | [[影片](https://www.youtube.com/watch?v=s7S1q9bqY_0)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
+| 2017/01/24 | Aki Yu | Barcode and Dropbox | [[影片](https://gaming.youtube.com/watch?v=KSVTIEociw4)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
 | 2017/02/02 | 尼森 | swift autolayout 私房菜 | [[影片](https://www.youtube.com/watch?v=MawaafuIaeE)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/35)] |
 | 2017/02/04 | 默司 | mac 減肥術 | [[影片](https://www.youtube.com/watch?v=XGNPcqwfCdU)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/36)] |
 | 2017/02/13 | Shen Yun | 演算法與資料結構 | [[Github](https://github.com/shenyun2304/swift-algorithm-club-zhTW)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
@@ -62,3 +64,4 @@
 | 2017/02/23 | 家齊 | Rxswift | [[影片](https://www.youtube.com/watch?v=OyCN04p-uS8)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/37)] |
 | 2017/02/28 | 默司 |  UI Animation 微實作 & 閒聊  | [[影片](https://www.youtube.com/watch?v=fY0BY595avM&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/38)] |
 | 2017/03/2 | 默司 |  實作 Youtube 播放影片仿製   | [[影片](https://www.youtube.com/watch?v=jLTPHfDpNY8&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/39)] |
+| 2017/03/3 | 彼得潘 |  error handing   | [[影片](https://www.youtube.com/watch?v=oE_NrNhXq9s)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
