@@ -13,7 +13,7 @@
 | 默司 | 13 ~ 14 + 番外篇 | [[影片](https://www.youtube.com/watch?v=5W_SSZMwTMo&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/7)] |
 | 宗翰 | 15 ~ 16 | [[影片](https://youtu.be/2H0kGsxt8Ic)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/8)] | 
 | Michael | 17 ~ 18 | [[影片part1](https://www.youtube.com/watch?v=xnhz9s4ctBs)] [[影片part2](https://www.youtube.com/watch?v=xGuKVFY3iHg)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/21)]
-| 沈昀 | 19 Core Data 介紹 | [[影片](https://www.youtube.com/watch?v=WXc8-l_S-YY)] [[FB] (https://www.facebook.com/groups/238948643131478/permalink/333784840314524/)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/19)] |
+| 沈昀 | 19 Core Data 介紹 | [[影片](https://www.youtube.com/watch?v=WXc8-l_S-YY)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/19)] |
 | Michael | 20 | [[影片前半部](https://www.youtube.com/watch?v=4w8D2pBPyzk&t=708s)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/29)]
 | 孤行天羽 | 21 | [[影片後半部](https://www.youtube.com/watch?v=4w8D2pBPyzk&t=708s)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/29)]
 | Nick | 25 | [[影片](https://www.youtube.com/watch?v=PG5GcTy9nu8&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/30)]
@@ -37,9 +37,9 @@
 | 2016/09/01 | 默司 | Sinch 網路電話 + Fabric | [[影片](https://gaming.youtube.com/watch?v=s2ENwEucB00)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
 | 2016/09/02 | 劉信（Hsing Liu） |  AotoLayout Size Class | [[影片](https://www.youtube.com/watch?v=lVUz57UIgK0&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/22)] |
 | 2016/09/08 | 默司 |  Protocol 入門 | [[影片](https://www.youtube.com/watch?v=JMUX2tEKpm0&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
-| 2016/09/15 | peter pan | 結合 iOS 10 的 User Notifications：傳送米花兒的幸福打氣通知 | [[影片](https://www.youtube.com/watch?v=ePZaV_sd0KI)] [[FB] (https://www.facebook.com/groups/238948643131478/permalink/322444021448606/)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/20)] |
+| 2016/09/15 | peter pan | 結合 iOS 10 的 User Notifications：傳送米花兒的幸福打氣通知 | [[影片](https://www.youtube.com/watch?v=ePZaV_sd0KI)]  | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/20)] |
 | 2016/09/22 | 默司  | Networking 以及 JSON 各種嘗試中 | [[影片](https://www.youtube.com/watch?v=8A5YZmFKwhA)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
-| 2016/09/29 | pofat | Swift 裝屌指南 | [[影片](https://www.youtube.com/watch?v=BcIGvdE3cTI&feature=youtu.be)] [[FB] (https://www.facebook.com/groups/238948643131478/permalink/329846170708391/)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/18)] | 
+| 2016/09/29 | pofat | Swift 裝屌指南 | [[影片](https://www.youtube.com/watch?v=BcIGvdE3cTI&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/18)] | 
 | 2016/10/13 | 景隆 | SwiftyJSON (相關筆記在討論區) | [[影片](https://www.youtube.com/watch?v=lbVuYwHYqWg)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/23)] | 
 | 2016/10/20 | Nick | 對抗萬惡的字符串 | [[FB](https://www.facebook.com/nicklin.69/videos/1409174642446349/)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/24)] | 
 | 2016/10/27 | Michael | Strategy Pattern (相關筆記在討論區) | [[影片](https://www.youtube.com/watch?v=bsNBFS5Eg5Q)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/25)] |
