@@ -68,3 +68,11 @@
 | 2017/03/24 | 偉哲 |  教你做iOS聊天室App，適合iOS初學者 X 默司的collection時鐘   | [[影片](https://www.youtube.com/watch?v=lFGS886sojc&t=2128s)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
 | 2017/04/06 | 李昀 |   swift 註冊 X firebase 入門   | [[影片](https://www.youtube.com/watch?v=v-ppHZ_Eep0)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
 | 2017/04/06 | 世明 |   swift + go + docker 環境整合 + 資安與驗證   | [[影片](https://www.youtube.com/watch?v=_JyvmuY-HRs)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
+
+
+## Stanford CS193P 2017 有雷影評
+
+| 時間 | 主講者 | 主題 | 連結 | 討論區 |
+| ------ | ------ | ------ | ------ | ----- |
+| 2017/03/11 | Michael | Lecture 1 | [[影片](https://www.youtube.com/watch?v=JxyL_USQCws&t=292s)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
+| 2017/03/24 | 健豪 | Lecture 2 | [[影片](https://www.youtube.com/watch?v=4daxzVvv9-k)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
