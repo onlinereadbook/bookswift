@@ -65,3 +65,6 @@
 | 2017/02/28 | 默司 |  UI Animation 微實作 & 閒聊  | [[影片](https://www.youtube.com/watch?v=fY0BY595avM&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/38)] |
 | 2017/03/2 | 默司 |  實作 Youtube 播放影片仿製   | [[影片](https://www.youtube.com/watch?v=jLTPHfDpNY8&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/39)] |
 | 2017/03/3 | 彼得潘 |  error handing   | [[影片](https://www.youtube.com/watch?v=oE_NrNhXq9s)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
+| 2017/03/24 | 偉哲 |  教你做iOS聊天室App，適合iOS初學者 X 默司的collection時鐘   | [[影片](https://www.youtube.com/watch?v=lFGS886sojc&t=2128s)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
+| 2017/04/06 | 李昀 |   swift 註冊 X firebase 入門   | [[影片](https://www.youtube.com/watch?v=v-ppHZ_Eep0)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
+| 2017/04/06 | 世明 |   swift + go + docker 環境整合 + 資安與驗證   | [[影片](https://www.youtube.com/watch?v=_JyvmuY-HRs)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
