@@ -70,11 +70,20 @@
 | 2017/04/06 | 世明 |   swift + go + docker 環境整合 + 資安與驗證   | [[影片](https://www.youtube.com/watch?v=_JyvmuY-HRs)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
 | 2017/04/07 | 易致 |   ios UI(消音)工程   | [[影片](https://www.youtube.com/watch?v=W5_lMl_1Cq0)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
 | 2017/04/12 | 默司 |   fabric  | [[影片](https://www.youtube.com/watch?v=gikYghAV0M0&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/40)] |
+| 2017/04/12 | 默司X柏任 |   工作坊 經驗分享  | [[影片](https://www.youtube.com/watch?v=KZzefPlpCrc&t=177s)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
+| 2017/04/12 | 陳董 |   swift 動畫轉場  | [[影片](https://www.youtube.com/watch?v=p6JRktRowpI&index=44&list=PLSebY0Ugo-ze8m_75XXv_hisVqX8vsWk2)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
 
 
 ## Stanford CS193P 2017 有雷影評
 
 | 時間 | 主講者 | 主題 | 連結 | 討論區 |
 | ------ | ------ | ------ | ------ | ----- |
-| 2017/03/11 | Michael | Lecture 1 | [[影片](https://www.youtube.com/watch?v=JxyL_USQCws&t=292s)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
-| 2017/03/24 | 健豪 | Lecture 2 | [[影片](https://www.youtube.com/watch?v=4daxzVvv9-k)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/33)] |
+| 2017/03/11 | Michael | Lecture 1 | [[影片](https://www.youtube.com/watch?v=JxyL_USQCws&t=292s)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/41)] |
+| 2017/03/18 | 健豪 | Lecture 2 | [[影片](https://www.youtube.com/watch?v=4daxzVvv9-k)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/41)] |
+| 2017/03/25 | Jamie | Lecture 3 | [[影片](https://www.youtube.com/watch?v=4ucGUX2E-lE&list=PLIdAzOjRa0ObdlNf7UEzjB-3C0f3ulU_o&index=3)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/41)] |
+| 2017/04/01 | Michael | Lecture 4 | [[影片上](https://www.youtube.com/watch?v=FNA6yYJvSRw&index=4&list=PLIdAzOjRa0ObdlNf7UEzjB-3C0f3ulU_o)][[影片下](https://www.youtube.com/watch?v=hSspEPmmeWI&list=PLIdAzOjRa0ObdlNf7UEzjB-3C0f3ulU_o&index=5)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/41)] |
+| 2017/04/08 | Michael | Lecture 5 | [[影片](https://www.youtube.com/watch?v=0Mm9p3Wb7WQ&index=6&list=PLIdAzOjRa0ObdlNf7UEzjB-3C0f3ulU_o)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/41)] |
+| 2017/04/22 | Michael | Lecture 6 | [[影片](https://www.youtube.com/watch?v=4PiiGZ6Ygpk&index=7&list=PLIdAzOjRa0ObdlNf7UEzjB-3C0f3ulU_o)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/41)] |
+| 2017/04/23 | Jamie | Lecture 7 | [[影片](https://www.youtube.com/watch?v=JYztOCLXuB0&index=8&list=PLIdAzOjRa0ObdlNf7UEzjB-3C0f3ulU_o)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/41)] |
+| 2017/04/30 | Michael | Lecture 8 | [[影片](https://www.youtube.com/watch?v=j5Bkk9-QXcI&index=9&list=PLIdAzOjRa0ObdlNf7UEzjB-3C0f3ulU_o)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/41)] |
+| 2017/05/01 | Michael | Lecture 9 | [[影片](https://www.youtube.com/watch?v=koWjgqccOgk&index=10&list=PLIdAzOjRa0ObdlNf7UEzjB-3C0f3ulU_o)] | [[傳送門](https://github.com/onlinereadbook/bookswift/issues/41)] |
